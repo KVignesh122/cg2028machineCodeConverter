@@ -7,4 +7,3 @@ The python script converts asm instructions to 32 bit machine code as per CG2028
 - Needs Python 3.8 and above to run code.
 - PC relative indexing not supported.
 - No exception handling at the moment.
-- Normal LDR instruction without offset may have discrepencies. Always please self-check output to be sure.
